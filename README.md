@@ -86,19 +86,19 @@ chmod +x scripts/test-saga.sh
 ```
 ## Technology Stack
 
-| Spring Boot 3.3.0    
-| Spring Cloud Gateway API Gateway + rate limiting  
-| Spring Kafka Event streaming  
-| Spring Data JPA ORM   
-| Spring Security Auth service security  
-| Spring Retry @RetryableTopic   
-| Resilience4j  Circuit breaker + retry   
-| Redisson Distributed locks   
-| JJWT RS256 JWT   
-| PostgreSQL Per-service databases   
-| Apache Kafka Event bus   
-| Redis Cache + locks + rate limit   
-| Flyway DB schema migrations   
-| Lombok Boilerplate reduction   
-| Java 21 Runtime   
-| Docker Containerization   
+ Spring Boot 3.3.0    
+ Spring Cloud Gateway API Gateway + rate limiting  
+ Spring Kafka Event streaming  
+ Spring Data JPA ORM   
+ Spring Security Auth service security  
+ Spring Retry @RetryableTopic   
+ Resilience4j  Circuit breaker + retry   
+ Redisson Distributed locks   
+ JJWT RS256 JWT   
+ PostgreSQL Per-service databases   
+ Apache Kafka Event bus   
+ Redis Cache + locks + rate limit   
+ Flyway DB schema migrations   
+ Lombok Boilerplate reduction   
+ Java 21 Runtime   
+ Docker Containerization   
