@@ -96,9 +96,9 @@ chmod +x scripts/test-saga.sh
 | Redisson Distributed locks   
 | JJWT RS256 JWT   
 | PostgreSQL Per-service databases   
-| Apache Kafka | Event bus   
-| Redis | Cache + locks + rate limit   
-| Flyway | DB schema migrations   
-| Lombok | Boilerplate reduction   
-| Java 21 | Runtime   
-| Docker | Containerization   
+| Apache Kafka Event bus   
+| Redis Cache + locks + rate limit   
+| Flyway DB schema migrations   
+| Lombok Boilerplate reduction   
+| Java 21 Runtime   
+| Docker Containerization   
